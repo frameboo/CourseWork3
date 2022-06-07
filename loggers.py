@@ -26,4 +26,4 @@ def create_logger():
     file_handler_api.setFormatter(formatter)
     console_handler.setFormatter(formatter)
     console_handler_api.setFormatter(formatter)
-    #return logger
+
